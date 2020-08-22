@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/lu%C3%ADs-felipe-dias-lima-28361a1a8/)
 
 
-A software developer for web, mobile and embedded systems, looking for new opportunities.
+A software engineer passionate about innovation.
 
 - 🚀 Always innovating
 - 📚 Focus and persistence is my routine
