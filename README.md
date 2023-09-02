@@ -5,10 +5,6 @@ My name is Luís Felipe Dias Lima from Brazil (🇧🇷). I've been working as F
 
 In my free time I like to go to the gym (🏋️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I participate in volunteer events (😄).
 
-I have already worked on projects
-of great importance and with a high volume of hits, such as the Netshoes website and the
-Magazine Luiza app.
-
 My technical skills include proficiency in several technologies, with a focus on Vue.js, React.js,
 and Node.js, as well as extensive expertise in agile methodologies and web accessibility.
 
